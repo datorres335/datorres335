@@ -1,16 +1,19 @@
-## Hi there 👋
+# 📄 David A. Torres — Software Engineering Resume
 
-<!--
-**datorres335/datorres335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+Here you can view or download my latest resume.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 View or Download
+**[📥 Download PDF](../Software-Engineering-Resume/David_Torres_Software_Eng_Resume_10-07-25.pdf)**  
+**[🌐 View HTML Version](../Software-Engineering-Resume/David_Torres_Software_Eng_Resume_10-07-25.html)**
+
+---
+
+### 🖼️ Preview
+[![Resume Preview](../Software-Engineering-Resume/David_Torres_Software_Eng_Resume_10-07-25.png)](../Software-Engineering-Resume/David_Torres_Software_Eng_Resume_10-07-25.pdf)
+
+---
+
+*Last updated: October 7, 2025*
